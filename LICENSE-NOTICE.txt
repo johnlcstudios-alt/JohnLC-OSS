@@ -1,0 +1,3 @@
+JohnLC OSS starter landing page and README
+
+This package is provided as a project starter. No blanket license is granted for the JohnLC Studios / JohnLC OSS names, logos, or branding. Add an explicit open-source license before publishing code for reuse. Third-party fonts are loaded from Google Fonts and remain subject to their respective licenses.
