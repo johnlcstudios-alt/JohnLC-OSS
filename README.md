@@ -73,7 +73,7 @@ If a repository does not include a license, do not assume that its contents are 
 ## Links
 
 - **Official website:** [JohnLC Studios](https://johnlcstudios.kesug.com)
-- **JohnLC OSS landing page:** Open `index.html` in a browser or deploy this folder to a static host.
+- **JohnLC OSS landing page:** [JohnLC OSS](https://johnlcstudios-alt.github.io/JohnLC-OSS/)
 - **Source code:** Browse the repositories published under the JohnLC OSS identity.
 
 ---
