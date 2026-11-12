@@ -55,7 +55,7 @@ When publishing a project, include at minimum:
 
 ## Technology
 
-JohnLC OSS projects may use different technologies depending on their requirements. Web projects commonly use standards-based technologies such as HTML, CSS, and JavaScript, alongside suitable server-side tools and databases when needed.
+JohnLC OSS projects may use different technologies depending on their requirements. Web projects commonly use standards-based technologies such as Python, C, Java, PHP, HTML, CSS, JavaScript, and More, alongside suitable server-side tools and databases when needed.
 
 There is no single mandatory stack across all projects.
 
